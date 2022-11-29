@@ -1,0 +1,17 @@
+.box {
+  width: 100%;
+  text-align: center;
+  margin-top: 2rem;
+}
+.items {
+  display: flex;
+  justify-content: center;
+}
+.productImage {
+  margin-top: 5rem;
+  max-width: 100%;
+  height: auto;
+}
+.brandAndModel {
+  margin-top: 0;
+}

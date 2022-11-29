@@ -1,0 +1,20 @@
+/* .ul {
+  margin: 0;
+  padding: 0;
+  list-style-position: outside;
+  list-style-type: none;
+}
+.div {
+  text-align: left;
+}
+.div li {
+  padding: 0;
+  margin: 0;
+  padding-left: 0;
+  text-align: left;
+} */
+
+.button {
+  text-align: right;
+  padding: 0.8rem;
+}

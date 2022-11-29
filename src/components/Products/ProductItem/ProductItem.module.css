@@ -1,0 +1,22 @@
+.product {
+  margin: 1rem;
+  position: relative;
+  max-width: 20rem;
+  max-height: 40rem;
+  transition: 0.2s;
+}
+.productImage {
+  margin-top: 1rem;
+  max-width: 100%;
+  height: auto;
+}
+.product h4 {
+  align-items: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

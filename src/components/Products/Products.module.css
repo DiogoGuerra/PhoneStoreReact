@@ -1,0 +1,16 @@
+.prods {
+  display: flex;
+  justify-content: center;
+  margin-top: 4rem;
+}
+
+.items {
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  width: 100%;
+  text-align: center;
+  margin-top: 2rem;
+}
